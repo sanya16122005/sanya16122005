@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Alexander%20Sterligov&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 <a href="https://github.com/sanya16122005">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Студент+%7C+Fullstack-разработчик;Python+%7C+FastAPI+%7C+React+%7C+JavaScript;Сейчас+прокачиваю+DevOps" alt="Typing SVG" />
+  <img src="assets/typing.svg" alt="Студент | Fullstack-разработчик" />
 </a>
 
 📍 Москва &nbsp;·&nbsp; <img src="https://komarev.com/ghpvc/?username=sanya16122005&label=Просмотры%20профиля&color=4fc3f7&style=flat" alt="views" />
