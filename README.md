@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Alexander%20Sterligov&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-<img src="assets/typing.svg" alt="Frontend Developer · QA Engineer" />
+<img src="assets/typing.svg" alt="Fullstack Developer" />
 
 Москва &nbsp;·&nbsp; <img src="https://komarev.com/ghpvc/?username=sanya16122005&label=Profile%20views&color=4fc3f7&style=flat" alt="views" />
 
@@ -10,7 +10,7 @@
 
 ## Обо мне
 
-Frontend-разработчик и QA-инженер, студент.
+Fullstack-разработчик с основным фокусом на фронтенде. Также занимаюсь тестированием и UI/UX. Студент.
 
 - **Frontend:** React, JavaScript, HTML, CSS / SCSS
 - **QA:** функциональное и регрессионное тестирование веб-приложений, баг-репорты
