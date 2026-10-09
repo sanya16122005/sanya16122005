@@ -2,11 +2,11 @@
   <style>text{font:500 20px "JetBrains Mono",Consolas,"DejaVu Sans Mono",monospace;fill:#4FC3F7;text-anchor:middle}</style>
   <mask id="m0"><rect x="0" y="0" height="50" width="0" fill="#fff">
     <animate attributeName="width" dur="12.0s" repeatCount="indefinite" keyTimes="0.0000;0.1333;0.2833;0.3333;1.0000" values="0;600;600;0;0"/></rect></mask>
-  <text x="300" y="32" mask="url(#m0)">Frontend Developer</text>
+  <text x="300" y="32" mask="url(#m0)">Fullstack Developer</text>
   <mask id="m1"><rect x="0" y="0" height="50" width="0" fill="#fff">
     <animate attributeName="width" dur="12.0s" repeatCount="indefinite" keyTimes="0.0000;0.3333;0.4667;0.6167;0.6667;1.0000" values="0;0;600;600;0;0"/></rect></mask>
-  <text x="300" y="32" mask="url(#m1)">QA Engineer</text>
+  <text x="300" y="32" mask="url(#m1)">Frontend · React · JavaScript</text>
   <mask id="m2"><rect x="0" y="0" height="50" width="0" fill="#fff">
     <animate attributeName="width" dur="12.0s" repeatCount="indefinite" keyTimes="0.0000;0.6667;0.8000;0.9500;1.0000" values="0;0;600;600;0"/></rect></mask>
-  <text x="300" y="32" mask="url(#m2)">UI/UX · React · JavaScript</text>
+  <text x="300" y="32" mask="url(#m2)">QA · UI/UX</text>
 </svg>
